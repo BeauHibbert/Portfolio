@@ -1,3 +1,4 @@
-# Modify this portfolio
+# My portfolio displaying some of my web development talents
 
-Make it your own! 
+https://beau-hibbert-portfolio.netlify.app/
+
