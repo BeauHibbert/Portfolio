@@ -11,12 +11,11 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "Dungeon",
         "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "Final Project for class 201. Used CSS, HTML, and JavaScript to build out the website. The website was a side scrolling question and answer learning tool designed for new developers entering the .",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/dungeon/dungeon.PNG"
         ],
         "url": "",
         "technologies": [
@@ -35,12 +34,11 @@
         ]
       },
       {
-        "title": "Photography",
+        "title": "Salmon Cookies",
         "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": "The idea of this project was to build out a website for a cookie company with several different locations around the world. Not only did I design the website, but also aggragated sales data and displayed it in a way that made it easy to compare stores and see how they were doing.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/salmon-cookies/salmon-cookies.PNG"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -55,7 +53,7 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
+        "title": "Final Project",
         "startDate": "2015",
         "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
