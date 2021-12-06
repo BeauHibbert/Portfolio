@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Beau Hibbert",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Web Developer in Greater Seattle Area" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/BeauHibbert",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/beau-hibbert/",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "profile-pic.PNG"
     },
     "skills": {
       "icons": [

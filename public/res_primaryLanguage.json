@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Beau Hibbert. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hey there!",
+      "description": "My name is Beau Hibbert, I attended Washington State University to study economics and eventually got a job in the banking industry. After working for a couple of years, I came to the conclusion that the banking industry was not the right fit for me and decided that being a software engineer would be a smart move as it's one of the fastest growing industries. I really enjoy doing research and applying that newfound knowledge to increase performance in myself and others. With my background in economics and now software engineering, I am looking towards finding a role where I can continue to develop my skills and solve complex problems.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
